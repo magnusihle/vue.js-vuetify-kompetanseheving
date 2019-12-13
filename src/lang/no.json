@@ -1,0 +1,24 @@
+{
+    "generic":{
+        "navigation": {
+            "administrasjon": "Administrasjon",
+            "arbeidsflate": "Arbeidsflate",
+            "kursAdm": "Kurs Administrasjon", 
+            "minSide": "Min Side"
+
+        }
+    },
+    "minSide":{
+        "navigation": {
+            "home": "Kalender",
+            "documents": "Dokumentarkiv",
+            "settings": "Instillinger"
+        }
+    },
+    "kursAdm": {
+        "navigation": {
+            "home": "Kurs",
+            "newCoursePlan": "Ny Studieplan"
+        }
+    }
+}
